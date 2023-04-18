@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi, I'm an iOS Software Engineer with 8+ years of experience, focused on delivering scalable and easy-to-maintain applications with high code coverage.
+
+I live in São Paulo, Brazil. I'm working with Swift and Dart(Flutter).
+
+I love to create example applications to study and help other developers, taking advantage of applying new patterns and technologies.
+
+### Get in touch
+ * [Linkedin](https://www.linkedin.com/in/h%C3%A9lio-mesquita-b22950109/)
+ * Say [Hi](mailto:helio.mesquitaios@gmail.com)
 
 <!--
 **HelioMesquita/HelioMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
