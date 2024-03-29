@@ -1,10 +1,10 @@
-Hi, I'm an iOS Software Engineer with 8+ years of experience, focused on delivering scalable and easy-to-maintain applications with high code coverage.
+Hi, I'm an iOS Software Engineer with 8+ years of experience. I'm focused on delivering scalable, easy-to-maintain applications with high code coverage.
 
 I live in São Paulo, Brazil. I'm working with Swift and Dart(Flutter).
 
-I love to create example applications to study and help other developers, taking advantage of applying new patterns and technologies.
+I love to create sample applications to study and help other developers, taking advantage of applying new patterns and technologies.
 
-My most popular repository is [Swiftmazing](https://github.com/HelioMesquita/Swiftmazing). It is a app that constains several features that you can use as a example or get inspired with :)
+My most popular repository is [Swiftmazing](https://github.com/HelioMesquita/Swiftmazing). It is an app that contains several features that you can use as an example or get inspired by :)
 
 ### Get in touch
  * [Linkedin](https://www.linkedin.com/in/h%C3%A9lio-mesquita-b22950109/)
