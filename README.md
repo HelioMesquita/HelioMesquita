@@ -4,7 +4,7 @@
 </h3>
 
 ###
-<p align="left">I live in São Paulo, Brazil. I'm working with Swift and Dart(Flutter).</p>
+<p align="left">I live in São Paulo, Brazil. I'm working with Swift, Node and Flutter.</p>
 
 I love to create sample applications to study and help other developers, taking advantage of applying new patterns and technologies.
 
