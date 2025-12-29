@@ -17,12 +17,4 @@ My most popular repository is [Swiftmazing](https://github.com/HelioMesquita/Swi
 ### Get in touch
 [Linkedin](https://www.linkedin.com/in/h%C3%A9lio-mesquita-b22950109/)
 
-
-<div align="center">
-  <a href="https://github.com/HelioMesquita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelioMesquita&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioMesquita&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-
 </div>
